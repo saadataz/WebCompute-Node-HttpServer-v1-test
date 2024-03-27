@@ -2,7 +2,7 @@ import express from "express";
 import url from "url";
 
 const app: express.Application = express();
-const port = 3001;
+const port = 3000;
 
 app.use(express.text());
 
